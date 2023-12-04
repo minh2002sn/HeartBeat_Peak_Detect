@@ -1,0 +1,5 @@
+*.asv
+fort.*
+*.info
+*.mat
+*.fig
